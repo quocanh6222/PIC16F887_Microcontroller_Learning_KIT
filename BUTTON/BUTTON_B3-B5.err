@@ -1,0 +1,4 @@
+>>> Warning 203 "BUTTON_B3-B5.c" Line 19(1,1): Condition always TRUE
+>>> Warning 202 "C:\Program Files (x86)\PICC\Devices\i2c_Flex_LCD.c" Line 174(13,17): Variable never used:   data
+      Memory usage:   ROM=11%      RAM=6% - 12%
+      0 Errors,  2 Warnings.

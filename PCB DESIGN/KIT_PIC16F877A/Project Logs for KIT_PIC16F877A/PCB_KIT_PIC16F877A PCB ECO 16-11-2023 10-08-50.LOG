@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=SR04-1
+Removed Pin From Net: NetName=TRIG Pin=SR04-2
+Removed Pin From Net: NetName=ECHO Pin=SR04-3
+Removed Pin From Net: NetName=GND Pin=SR04-4
+Removed Member From Class: ClassName=SCHEMATIC Member=SR04
+Added Component: Designator=SRF04(SRF04)
+Added Pin To Net: NetName=GND Pin=SRF04-1
+Added Pin To Net: NetName=ECHO Pin=SRF04-2
+Added Pin To Net: NetName=TRIG Pin=SRF04-3
+Added Pin To Net: NetName=5V Pin=SRF04-4
+Added Member To Class: ClassName=SCHEMATIC Member=Component SRF04

@@ -1,0 +1,24 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~KIT_PIC16F877A.PrjPcb|ReportField=ProjectFullPath~D:\UNIVERSITY\NAM_4_2023_2024\HKI\DA_KTDK\PCB DESIGN\KIT_PIC16F877A\KIT_PIC16F877A.PrjPcb|ReportField=Title~Bill of Materials For Project [KIT_PIC16F877A.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~85|ReportField=ReportTime~23:10:38|ReportField=ReportDate~28/11/2023|ReportField=ReportDateTime~28/11/2023 23:10:38|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~28/11/2023|ReportField=CurrentTime~23:10:33|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\UNIVERSITY\NAM_4_2023_2024\HKI\DA_KTDK\PCB DESIGN\KIT_PIC16F877A\SCHEMATIC.SchDoc|ReportField=DocumentName~SCHEMATIC.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~28/11/2023|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.94:XCorrection=0.00:YCorrection=0.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4:PaperIndex=9|ReportField=ProjectName~KIT_PIC16F877A.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~KIT_PIC16F877A.PrjPcb|ReportField=DataSourceFullPath~D:\UNIVERSITY\NAM_4_2023_2024\HKI\DA_KTDK\PCB DESIGN\KIT_PIC16F877A\KIT_PIC16F877A.PrjPcb
+1|JP5|WR-PHD 2.54 mm Angled Socket Header|5V, GND, J28|JP5-C1T|JP5|3
+2|Cap Non-Pol|Capacitor|C3, C10, C11, C12, C13|CN1.5|Cap Non-Pol|5
+3|1u|Capacitor (Semiconductor SIM Model)|C6, C7, C8, C9|CA-ALU-2.54|CN-ALU-DIP|4
+4|210611003|D-SUB-Filter Connectors WE-DS, Solder Pin Straight|D-Sub|COM9B|CON 9BD|1
+5|7SEG_D|Dual 7 Seg Dipslay|DS0|7SEG-D|LED7-D|1
+6|JP4|WR-PHD 2.54 mm Angled Socket Header|I2C_LCD|JP4-C1T|JP4|1
+7|PIC 16F877A|8K FLASH, 368B RAM, 256B EFROM|IC1|DIP40_Socket|PIC16F877-PU|1
+8|Header6|Header IDC, 6 x 1 Pin Vertical 2.54mm Pitch (Non-Boxed, Male)|ICSP|Header6|Header6|1
+9|JP20|WR-PHD 2.54 mm Angled Socket Header|J0, J26|JP20-C1T|JP20|2
+10|JP20|WR-PHD 2.54 mm Angled Socket Header|J2, J27|JP20-D1T|JP20|2
+11|JP2|WR-PHD 2.54 mm Angled Socket Header|J29, JP0, JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12, JP13, JP14, JP15, JP16, JP17, JP18, JP19, JP20, JP21, JP22, JP23, JP25, JP26, JP27|JP2-D1T|JP2|28
+12|Jack DC|Jac DC input|JDC|DC0|DCIN|1
+13|LED|LED Single colour Green and Red|L0, L1, L2, L3, L4, L5|LED-5-RED|LED|6
+14|LM35|Teminal|LM35|TO92-123|LM35|1
+15|10K|Res|R1|RES-1/4W-SMALL|Res|1
+16|100|Res|R2|RES-1/4W-SMALL|Res|1
+17|470|Res|R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16|RES-1/4W-SMALL|Res|14
+18||Switch button 4 pin|RB0, RB1, RB2, RB3, RB4, RB5, RESET|SW2-DIP|SW4|7
+19|SRF04||SRF04|SRF04|SRF04|1
+20|JP3|WR-PHD 2.54 mm Angled Socket Header|TOUCH|JP3-C1T|JP3|1
+21|MAX232|RS232 LEVEL SHIFTER|U0|DIP16|MAX232|1
+22|10K|Var Resistor|VR0|VR-S1|VR-S|1
+23|20MHz|Crystal Oscillator|Y1|xtal|Crystal|1

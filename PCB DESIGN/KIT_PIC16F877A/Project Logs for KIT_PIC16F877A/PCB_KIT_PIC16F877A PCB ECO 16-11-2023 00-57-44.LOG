@@ -1,0 +1,32 @@
+Added Component: Designator=DS?(7SEG-D)
+Added Pin To Net: NetName=C0 Pin=DS?-8
+Added Pin To Net: NetName=C0 Pin=IC1-15
+Added Net: Name=C0
+Added Pin To Net: NetName=C1 Pin=DS?-7
+Added Pin To Net: NetName=C1 Pin=IC1-16
+Added Net: Name=C1
+Added Pin To Net: NetName=D0 Pin=DS?-10
+Added Pin To Net: NetName=D0 Pin=IC1-19
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=DS?-9
+Added Pin To Net: NetName=D1 Pin=IC1-20
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=DS?-1
+Added Pin To Net: NetName=D2 Pin=IC1-21
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=DS?-4
+Added Pin To Net: NetName=D3 Pin=IC1-22
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=DS?-3
+Added Pin To Net: NetName=D4 Pin=IC1-27
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=DS?-6
+Added Pin To Net: NetName=D5 Pin=IC1-28
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=DS?-5
+Added Pin To Net: NetName=D6 Pin=IC1-29
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=DS?-2
+Added Pin To Net: NetName=D7 Pin=IC1-30
+Added Net: Name=D7
+Added Member To Class: ClassName=SCHEMATIC Member=Component DS? 7SEG_D

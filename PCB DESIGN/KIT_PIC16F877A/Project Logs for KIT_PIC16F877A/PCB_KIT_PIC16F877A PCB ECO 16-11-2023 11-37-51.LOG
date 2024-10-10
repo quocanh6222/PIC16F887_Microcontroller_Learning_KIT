@@ -1,0 +1,3 @@
+Added Component: Designator=I2C_LCD(JP4-C1T)
+Added Member To Class: ClassName=SCHEMATIC Member=Component I2C_LCD JP4
+Added Room: Name=SCHEMATIC

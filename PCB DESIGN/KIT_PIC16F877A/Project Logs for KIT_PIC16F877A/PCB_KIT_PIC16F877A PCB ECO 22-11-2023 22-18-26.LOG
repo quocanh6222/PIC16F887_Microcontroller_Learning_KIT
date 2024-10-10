@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=A3 Pin=JP24-2
+Removed Pin From Net: NetName=GND Pin=VR0-1
+Removed Pin From Net: NetName=5V Pin=VR0-3
+Removed Member From Class: ClassName=SCHEMATIC Member=JP24
+Added Pin To Net: NetName=A3 Pin=J28-3

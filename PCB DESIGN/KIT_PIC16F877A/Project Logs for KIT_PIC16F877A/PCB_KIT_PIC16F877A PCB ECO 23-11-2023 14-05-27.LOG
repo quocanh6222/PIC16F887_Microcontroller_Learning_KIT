@@ -1,0 +1,15 @@
+Added Component: Designator=5V(JP5-C1T)
+Added Component: Designator=GND(JP5-C1T)
+Added Pin To Net: NetName=5V Pin=5V-1
+Added Pin To Net: NetName=5V Pin=5V-2
+Added Pin To Net: NetName=5V Pin=5V-3
+Added Pin To Net: NetName=5V Pin=5V-4
+Added Pin To Net: NetName=5V Pin=5V-5
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=GND-2
+Added Pin To Net: NetName=GND Pin=GND-3
+Added Pin To Net: NetName=GND Pin=GND-4
+Added Pin To Net: NetName=GND Pin=GND-5
+Added Member To Class: ClassName=SCHEMATIC Member=Component 5V JP5
+Added Member To Class: ClassName=SCHEMATIC Member=Component GND JP5
+Added Room: Name=SCHEMATIC

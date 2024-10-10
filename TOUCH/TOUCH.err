@@ -1,0 +1,4 @@
+>>> Warning 203 "TOUCH.c" Line 15(1,1): Condition always TRUE
+>>> Warning 202 "C:\Program Files (x86)\PICC\Devices\i2c_Flex_LCD.c" Line 174(13,17): Variable never used:   data
+      Memory usage:   ROM=9%      RAM=4% - 10%
+      0 Errors,  2 Warnings.

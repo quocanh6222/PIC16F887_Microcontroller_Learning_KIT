@@ -1,0 +1,3 @@
+Added Component: Designator=VR0(VR-S1)
+Added Member To Class: ClassName=SCHEMATIC Member=Component VR0 10K
+Added Room: Name=SCHEMATIC

@@ -1,0 +1,6 @@
+>>> Warning 208 "NGAT_NGOAI.c" Line 11(1,8): Function not void and does not return a value  ext_isr
+>>> Warning 203 "NGAT_NGOAI.c" Line 27(1,1): Condition always TRUE
+>>> Warning 216 "NGAT_NGOAI.c" Line 36(0,1): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 202 "C:\Program Files (x86)\PICC\Devices\i2c_Flex_LCD.c" Line 174(13,17): Variable never used:   data
+      Memory usage:   ROM=11%      RAM=6% - 13%
+      0 Errors,  4 Warnings.

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=A3 Pin=J28-3
+Added Component: Designator=J29(JP2-C1T)
+Added Pin To Net: NetName=A3 Pin=J29-2
+Added Pin To Net: NetName=NetJ28_3 Pin=J28-3
+Added Pin To Net: NetName=NetJ28_3 Pin=J29-1
+Added Net: Name=NetJ28_3
+Added Member To Class: ClassName=SCHEMATIC Member=Component J29 JP2
+Added Room: Name=SCHEMATIC

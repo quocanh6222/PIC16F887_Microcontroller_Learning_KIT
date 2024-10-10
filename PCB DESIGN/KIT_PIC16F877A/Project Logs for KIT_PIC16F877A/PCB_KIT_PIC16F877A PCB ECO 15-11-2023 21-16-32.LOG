@@ -1,0 +1,13 @@
+Added Component: Designator=C4(CN1.5)
+Added Component: Designator=C5(CN1.5)
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=5V Pin=IC1-11
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=5V Pin=IC1-32
+Added Member To Class: ClassName=SCHEMATIC Member=Component C4 Cap Non-Pol
+Added Member To Class: ClassName=SCHEMATIC Member=Component C5 Cap Non-Pol
+Added Room: Name=SCHEMATIC

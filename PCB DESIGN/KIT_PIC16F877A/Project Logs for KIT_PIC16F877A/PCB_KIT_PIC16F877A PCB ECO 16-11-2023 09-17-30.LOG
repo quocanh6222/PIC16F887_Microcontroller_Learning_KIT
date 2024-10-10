@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=D2 Pin=DS?-1
+Removed Pin From Net: NetName=D7 Pin=DS?-2
+Removed Pin From Net: NetName=D4 Pin=DS?-3
+Removed Pin From Net: NetName=D3 Pin=DS?-4
+Removed Pin From Net: NetName=D6 Pin=DS?-5
+Removed Pin From Net: NetName=D5 Pin=DS?-6
+Removed Pin From Net: NetName=D1 Pin=DS?-9
+Removed Pin From Net: NetName=D0 Pin=DS?-10
+Added Component: Designator=R6(RES-1/4W-SMALL)
+Added Component: Designator=R7(RES-1/4W-SMALL)
+Added Component: Designator=R8(RES-1/4W-SMALL)
+Added Component: Designator=R9(RES-1/4W-SMALL)
+Added Component: Designator=R10(RES-1/4W-SMALL)
+Added Component: Designator=R11(RES-1/4W-SMALL)
+Added Component: Designator=R12(RES-1/4W-SMALL)
+Added Component: Designator=R13(RES-1/4W-SMALL)
+Added Pin To Net: NetName=D0 Pin=R6-2
+Added Pin To Net: NetName=D1 Pin=R7-2
+Added Pin To Net: NetName=D2 Pin=R8-2
+Added Pin To Net: NetName=D3 Pin=R9-2
+Added Pin To Net: NetName=D4 Pin=R10-2
+Added Pin To Net: NetName=D5 Pin=R11-2
+Added Pin To Net: NetName=D6 Pin=R12-2
+Added Pin To Net: NetName=D7 Pin=R13-2
+Added Pin To Net: NetName=NetDS?_1 Pin=DS?-1
+Added Pin To Net: NetName=NetDS?_1 Pin=R8-1
+Added Net: Name=NetDS?_1
+Added Pin To Net: NetName=NetDS?_2 Pin=DS?-2
+Added Pin To Net: NetName=NetDS?_2 Pin=R13-1
+Added Net: Name=NetDS?_2
+Added Pin To Net: NetName=NetDS?_3 Pin=DS?-3
+Added Pin To Net: NetName=NetDS?_3 Pin=R10-1
+Added Net: Name=NetDS?_3
+Added Pin To Net: NetName=NetDS?_4 Pin=DS?-4
+Added Pin To Net: NetName=NetDS?_4 Pin=R9-1
+Added Net: Name=NetDS?_4
+Added Pin To Net: NetName=NetDS?_5 Pin=DS?-5
+Added Pin To Net: NetName=NetDS?_5 Pin=R12-1
+Added Net: Name=NetDS?_5
+Added Pin To Net: NetName=NetDS?_6 Pin=DS?-6
+Added Pin To Net: NetName=NetDS?_6 Pin=R11-1
+Added Net: Name=NetDS?_6
+Added Pin To Net: NetName=NetDS?_9 Pin=DS?-9
+Added Pin To Net: NetName=NetDS?_9 Pin=R7-1
+Added Net: Name=NetDS?_9
+Added Pin To Net: NetName=NetDS?_10 Pin=DS?-10
+Added Pin To Net: NetName=NetDS?_10 Pin=R6-1
+Added Net: Name=NetDS?_10
+Added Member To Class: ClassName=SCHEMATIC Member=Component R6 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component R7 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component R8 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component R9 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component R10 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component R11 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component R12 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component R13 470
+Added Room: Name=SCHEMATIC

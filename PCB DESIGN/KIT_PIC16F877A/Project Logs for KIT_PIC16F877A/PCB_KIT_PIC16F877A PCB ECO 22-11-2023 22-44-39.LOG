@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=SCHEMATIC Member=LCD1602
+Added Member To Class: ClassName=SCHEMATIC Member=Component J29 JP2
+Added Room: Name=SCHEMATIC

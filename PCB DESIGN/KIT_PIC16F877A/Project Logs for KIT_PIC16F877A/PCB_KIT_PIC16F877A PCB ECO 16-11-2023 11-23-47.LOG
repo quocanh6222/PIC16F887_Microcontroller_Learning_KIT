@@ -1,0 +1,3 @@
+Added Component: Designator=LCD1602(LCD16X2)
+Added Member To Class: ClassName=SCHEMATIC Member=Component LCD1602 LCD 16x2A
+Added Room: Name=SCHEMATIC

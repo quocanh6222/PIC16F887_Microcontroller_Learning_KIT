@@ -1,0 +1,37 @@
+Added Component: Designator=SW2(SW2-DIP)
+Added Component: Designator=SW3(SW2-DIP)
+Added Component: Designator=SW4(SW2-DIP)
+Added Component: Designator=SW5(SW2-DIP)
+Added Component: Designator=SW6(SW2-DIP)
+Added Component: Designator=SW7(SW2-DIP)
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=GND Pin=SW5-2
+Added Pin To Net: NetName=GND Pin=SW6-2
+Added Pin To Net: NetName=GND Pin=SW7-2
+Added Pin To Net: NetName=B0 Pin=IC1-33
+Added Pin To Net: NetName=B0 Pin=SW2-1
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=IC1-34
+Added Pin To Net: NetName=B1 Pin=SW3-1
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=IC1-35
+Added Pin To Net: NetName=B2 Pin=SW4-1
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=IC1-36
+Added Pin To Net: NetName=B3 Pin=SW5-1
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=IC1-37
+Added Pin To Net: NetName=B4 Pin=SW6-1
+Added Net: Name=B4
+Added Pin To Net: NetName=B5 Pin=IC1-38
+Added Pin To Net: NetName=B5 Pin=SW7-1
+Added Net: Name=B5
+Added Member To Class: ClassName=SCHEMATIC Member=Component SW2 
+Added Member To Class: ClassName=SCHEMATIC Member=Component SW3 
+Added Member To Class: ClassName=SCHEMATIC Member=Component SW4 
+Added Member To Class: ClassName=SCHEMATIC Member=Component SW5 
+Added Member To Class: ClassName=SCHEMATIC Member=Component SW6 
+Added Member To Class: ClassName=SCHEMATIC Member=Component SW7 
+Added Room: Name=SCHEMATIC

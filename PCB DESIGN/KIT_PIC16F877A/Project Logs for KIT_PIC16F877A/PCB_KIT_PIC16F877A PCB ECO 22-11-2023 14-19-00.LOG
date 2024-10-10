@@ -1,0 +1,6 @@
+Added Component: Designator=J28(JP5-C1T)
+Added Pin To Net: NetName=GND Pin=J28-1
+Added Pin To Net: NetName=A3 Pin=J28-3
+Added Pin To Net: NetName=5V Pin=J28-5
+Added Member To Class: ClassName=SCHEMATIC Member=Component J28 JP5
+Added Room: Name=SCHEMATIC

@@ -1,0 +1,5 @@
+Added Component: Designator=R2(RES-1/4W-SMALL)
+Added Component: Designator=SW1(SW2-DIP)
+Added Member To Class: ClassName=SCHEMATIC Member=Component R1 Res
+Added Member To Class: ClassName=SCHEMATIC Member=Component R2 Res
+Added Member To Class: ClassName=SCHEMATIC Member=Component SW1 

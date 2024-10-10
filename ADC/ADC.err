@@ -1,0 +1,15 @@
+*** Error 18 "ADC.c" Line 2(10,21): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\def_887.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\def_887.h"
+    Not in local "D:\UNIVERSITY\NAM_4_2023_2024\HKI\TTTT_DO_AN_KY_THUAT_DIEU_KHIEN\CODE_TEST\ADC\def_887.h"
+*** Error 18 "ADC.c" Line 7(10,26): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\i2c_Flex_LCD.c"
+    Not in "C:\Program Files (x86)\PICC\Drivers\i2c_Flex_LCD.c"
+    Not in local "D:\UNIVERSITY\NAM_4_2023_2024\HKI\TTTT_DO_AN_KY_THUAT_DIEU_KHIEN\CODE_TEST\ADC\i2c_Flex_LCD.c"
+*** Error 12 "ADC.c" Line 12(9,10): Undefined identifier  -- lcd_init
+*** Error 12 "ADC.c" Line 13(18,19): Undefined identifier  -- lcd_backlight_led
+*** Error 12 "ADC.c" Line 21(11,12): Undefined identifier  -- lcd_gotoxy
+*** Error 12 "ADC.c" Line 23(8,16): Undefined identifier   lcd_putc
+*** Error 12 "ADC.c" Line 24(11,12): Undefined identifier  -- lcd_gotoxy
+*** Error 12 "ADC.c" Line 25(8,16): Undefined identifier   lcd_putc
+      8 Errors,  0 Warnings.

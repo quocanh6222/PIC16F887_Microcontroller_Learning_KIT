@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=SW2 NewDesignator=RB2
+Change Component Designator: OldDesignator=SW3 NewDesignator=RB3
+Change Component Designator: OldDesignator=SW4 NewDesignator=RB4
+Change Component Designator: OldDesignator=SW5 NewDesignator=RB5
+Change Component Designator: OldDesignator=SW6 NewDesignator=RB6
+Change Component Designator: OldDesignator=SW7 NewDesignator=RB7
+Added Room: Name=SCHEMATIC

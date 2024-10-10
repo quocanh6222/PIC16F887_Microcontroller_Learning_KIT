@@ -1,0 +1,12 @@
+Added Component: Designator=ICSP(Header6)
+Added Pin To Net: NetName=MCLR Pin=ICSP-1
+Added Pin To Net: NetName=5V Pin=ICSP-2
+Added Pin To Net: NetName=GND Pin=ICSP-3
+Added Pin To Net: NetName=PGC Pin=IC1-39
+Added Pin To Net: NetName=PGC Pin=ICSP-5
+Added Net: Name=PGC
+Added Pin To Net: NetName=PGD Pin=IC1-40
+Added Pin To Net: NetName=PGD Pin=ICSP-4
+Added Net: Name=PGD
+Added Member To Class: ClassName=SCHEMATIC Member=Component ICSP Header6
+Added Room: Name=SCHEMATIC

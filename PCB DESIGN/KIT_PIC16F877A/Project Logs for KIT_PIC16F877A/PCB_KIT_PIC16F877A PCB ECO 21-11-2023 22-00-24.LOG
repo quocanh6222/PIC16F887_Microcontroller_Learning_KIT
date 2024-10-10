@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=L4 NewDesignator=L0
+Added Component: Designator=JP26(JP2-D1T)
+Added Component: Designator=JP27(JP2-D1T)
+Added Component: Designator=L4(LED-5-RED)
+Added Component: Designator=L5(LED-5-RED)
+Added Component: Designator=R15(RES-1/4W-SMALL)
+Added Component: Designator=R16(RES-1/4W-SMALL)
+Added Pin To Net: NetName=A4 Pin=JP26-2
+Added Pin To Net: NetName=A5 Pin=JP27-2
+Added Pin To Net: NetName=GND Pin=L4-2
+Added Pin To Net: NetName=GND Pin=L5-2
+Change Net Name : Old Net Name=NetL4_2 New Net Name=NetL0_2
+Added Pin To Net: NetName=NetJP26_1 Pin=JP26-1
+Added Pin To Net: NetName=NetJP26_1 Pin=R15-1
+Added Net: Name=NetJP26_1
+Added Pin To Net: NetName=NetJP27_1 Pin=JP27-1
+Added Pin To Net: NetName=NetJP27_1 Pin=R16-1
+Added Net: Name=NetJP27_1
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=R15-2
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=R16-2
+Added Net: Name=NetL5_1
+Added Member To Class: ClassName=SCHEMATIC Member=Component JP26 JP2
+Added Member To Class: ClassName=SCHEMATIC Member=Component JP27 JP2
+Added Member To Class: ClassName=SCHEMATIC Member=Component L4 LED
+Added Member To Class: ClassName=SCHEMATIC Member=Component L5 LED
+Added Member To Class: ClassName=SCHEMATIC Member=Component R15 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component R16 470
+Added Room: Name=SCHEMATIC

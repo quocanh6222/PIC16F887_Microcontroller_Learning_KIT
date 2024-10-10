@@ -1,0 +1,20 @@
+#include <16f877A.h>
+#include <def_877a.h>
+#FUSES NOWDT, HS, PUT, NOPROTECT,
+#use DELAY(clock=20000000)
+#use rs232(baud=9600,xmit=pin_c6,rcv=pin_c7) 
+int16 RDATA;
+void main()
+{
+SET_TRIS_E(0x00); 
+while(true)
+{ 
+if(kbhit()) 
+{ 
+RDATA=getch();   
+
+
+
+}
+}
+}

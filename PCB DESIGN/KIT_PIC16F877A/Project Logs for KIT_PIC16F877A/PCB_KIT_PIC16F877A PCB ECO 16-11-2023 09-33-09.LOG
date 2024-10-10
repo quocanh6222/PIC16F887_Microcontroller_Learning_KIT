@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=DS? NewDesignator=DS0
+Change Component Designator: OldDesignator=U? NewDesignator=U0
+Added Component: Designator=U1(TO92-123)
+Change Net Name : Old Net Name=NetDS?_1 New Net Name=NetDS0_1
+Change Net Name : Old Net Name=NetDS?_2 New Net Name=NetDS0_2
+Change Net Name : Old Net Name=NetDS?_3 New Net Name=NetDS0_3
+Change Net Name : Old Net Name=NetDS?_4 New Net Name=NetDS0_4
+Change Net Name : Old Net Name=NetDS?_5 New Net Name=NetDS0_5
+Change Net Name : Old Net Name=NetDS?_6 New Net Name=NetDS0_6
+Change Net Name : Old Net Name=NetDS?_9 New Net Name=NetDS0_9
+Change Net Name : Old Net Name=NetDS?_10 New Net Name=NetDS0_10
+Added Member To Class: ClassName=SCHEMATIC Member=Component U1 LM35
+Added Room: Name=SCHEMATIC

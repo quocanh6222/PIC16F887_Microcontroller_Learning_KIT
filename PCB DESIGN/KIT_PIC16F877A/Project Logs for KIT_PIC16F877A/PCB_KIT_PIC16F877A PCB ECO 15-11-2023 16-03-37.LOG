@@ -1,0 +1,26 @@
+Added Component: Designator=C1(CN1.5)
+Added Component: Designator=C2(CN1.5)
+Added Component: Designator=IC1(DIP40_Socket)
+Added Component: Designator=JDC(DC0)
+Added Component: Designator=R1(RES 1/2W)
+Added Component: Designator=Y?(xtal)
+Added Pin To Net: NetName=5V Pin=JDC-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R1-1
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=OSC1 Pin=C1-1
+Added Pin To Net: NetName=OSC1 Pin=IC1-13
+Added Pin To Net: NetName=OSC1 Pin=Y?-2
+Added Net: Name=OSC1
+Added Pin To Net: NetName=OSC2 Pin=C2-1
+Added Pin To Net: NetName=OSC2 Pin=IC1-14
+Added Pin To Net: NetName=OSC2 Pin=Y?-1
+Added Net: Name=OSC2
+Added Class: Name=SCHEMATIC
+Added Room: Name=SCHEMATIC

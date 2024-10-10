@@ -1,0 +1,47 @@
+Added Component: Designator=C6(CA-ALU-2.54)
+Added Component: Designator=C7(CA-ALU-2.54)
+Added Component: Designator=C8(CA-ALU-2.54)
+Added Component: Designator=C9(CA-ALU-2.54)
+Added Component: Designator=D-Sub(COM9B)
+Added Component: Designator=U?(SO16)
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=D-Sub-5
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=5V Pin=U?-16
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U?-6
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U?-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U?-4
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U?-5
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U?-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U?-3
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=RX_IN Pin=IC1-26
+Added Pin To Net: NetName=RX_IN Pin=U?-12
+Added Net: Name=RX_IN
+Added Pin To Net: NetName=RX_OUT Pin=D-Sub-3
+Added Pin To Net: NetName=RX_OUT Pin=U?-13
+Added Net: Name=RX_OUT
+Added Pin To Net: NetName=TX_IN Pin=IC1-25
+Added Pin To Net: NetName=TX_IN Pin=U?-11
+Added Net: Name=TX_IN
+Added Pin To Net: NetName=TX_OUT Pin=D-Sub-2
+Added Pin To Net: NetName=TX_OUT Pin=U?-14
+Added Net: Name=TX_OUT
+Added Member To Class: ClassName=SCHEMATIC Member=Component C6 1u
+Added Member To Class: ClassName=SCHEMATIC Member=Component C7 1u
+Added Member To Class: ClassName=SCHEMATIC Member=Component C8 1u
+Added Member To Class: ClassName=SCHEMATIC Member=Component C9 1u
+Added Member To Class: ClassName=SCHEMATIC Member=Component D-Sub 210611003
+Added Member To Class: ClassName=SCHEMATIC Member=Component U? MAX232

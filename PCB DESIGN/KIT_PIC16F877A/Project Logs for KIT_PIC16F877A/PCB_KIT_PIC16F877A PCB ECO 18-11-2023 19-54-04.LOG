@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=ECHO New Net Name=C2
+Change Net Name : Old Net Name=RA0 New Net Name=A0
+Change Net Name : Old Net Name=RA1 New Net Name=A1
+Change Net Name : Old Net Name=RA3 New Net Name=A3
+Change Net Name : Old Net Name=TRIG New Net Name=A2
+Added Pin To Net: NetName=A4 Pin=IC1-6
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=IC1-7
+Added Net: Name=A5
+Added Pin To Net: NetName=C5 Pin=IC1-24
+Added Net: Name=C5
+Added Room: Name=SCHEMATIC

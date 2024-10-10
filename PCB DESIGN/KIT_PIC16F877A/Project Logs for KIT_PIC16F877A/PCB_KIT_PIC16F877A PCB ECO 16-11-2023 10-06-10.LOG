@@ -1,0 +1,27 @@
+Added Component: Designator=L4(LED-5-RED)
+Added Component: Designator=R14(RES-1/4W-SMALL)
+Added Component: Designator=SR04(JP4-C1T)
+Added Component: Designator=VR0(VR-S1)
+Added Pin To Net: NetName=5V Pin=L4-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=5V Pin=SR04-1
+Added Pin To Net: NetName=GND Pin=SR04-4
+Added Pin To Net: NetName=GND Pin=VR0-1
+Added Pin To Net: NetName=5V Pin=VR0-3
+Added Pin To Net: NetName=ECHO Pin=IC1-17
+Added Pin To Net: NetName=ECHO Pin=SR04-3
+Added Net: Name=ECHO
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=R14-1
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=RA3 Pin=IC1-5
+Added Pin To Net: NetName=RA3 Pin=VR0-2
+Added Net: Name=RA3
+Added Pin To Net: NetName=TRIG Pin=IC1-4
+Added Pin To Net: NetName=TRIG Pin=SR04-2
+Added Net: Name=TRIG
+Added Member To Class: ClassName=SCHEMATIC Member=Component L4 LED
+Added Member To Class: ClassName=SCHEMATIC Member=Component R14 470
+Added Member To Class: ClassName=SCHEMATIC Member=Component SR04 JP4
+Added Member To Class: ClassName=SCHEMATIC Member=Component VR0 10K
+Added Room: Name=SCHEMATIC

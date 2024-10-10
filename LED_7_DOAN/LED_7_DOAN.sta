@@ -1,0 +1,48 @@
+
+ROM used: 332 (4%)
+          332 (4%) including unused fragments
+
+          1 Average locations per line
+          21 Average locations per statement
+
+RAM used: 28 (8%) at main() level
+          38 (10%) worst case
+
+Stack used: 1 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   27    16 100  LED_7_DOAN.c
+  425     0   0  C:\Program Files (x86)\PICC\Devices\16F887.h
+  184     0   0  C:\Program Files (x86)\PICC\Devices\def_887.h
+----- -----
+  636    16 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     20   6   1             @delay_ms1
+0    199  60   4   449  5.7  main
+0    109  33  14             @DIVS3232
+
+Program metrics:
+    Functions               1
+    Statements              16
+    Comments                94
+    Volume (V)              454
+    Difficilty (D)          5.4
+    Effort to implement (E) 2444
+    Time to implement (T)   2 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   2
+    Maintainability (MI)    126
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF   328  1716  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+

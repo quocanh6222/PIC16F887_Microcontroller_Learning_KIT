@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=5V Pin=I2C_LCD-3
+Added Pin To Net: NetName=GND Pin=I2C_LCD-4
+Added Pin To Net: NetName=SCL Pin=I2C_LCD-1
+Added Pin To Net: NetName=SCL Pin=IC1-18
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=I2C_LCD-2
+Added Pin To Net: NetName=SDA Pin=IC1-23
+Added Net: Name=SDA
+Added Room: Name=SCHEMATIC
